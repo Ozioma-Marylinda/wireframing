@@ -115,3 +115,34 @@ Wireframes serve as a shared visual language for teams.
 
 In summary, wireframes streamline decision-making, prevent confusion, and keep everyone aligned throughout the project lifecycle.
 
+##  Wireframing in Practice
+
+### Real-World Scenario: Wireframing a Telemedicine App for Antenatal Care
+
+During the design phase of our team project — a **Telemedicine app** aimed at improving **antenatal care** in Nigeria — we used **high-fidelity wireframes** to map out key user journeys, including scheduling virtual consultations, accessing health tips, and locating nearby mobile clinics using GIS.
+
+#### Usability Issue Identified Through Wireframing
+
+While reviewing the wireframes, we noticed that the **booking process** for appointments was too cumbersome and required users to navigate through several confusing steps. This posed a major **usability issue**, especially for rural users with low digital literacy.
+
+#### Resolution and Outcome
+
+Thanks to the wireframe review, we simplified the process by:
+
+* Consolidating steps into a **single, guided flow**.
+* Adding **clear call-to-action buttons** and progress indicators.
+* Using **icons and visual cues** to make the interface more intuitive.
+
+This adjustment was made **before any code was written**, saving development time and preventing future rework.
+
+#### Impact on Final Product
+
+The final design became:
+
+* **More user-friendly**
+* **Faster to navigate**
+* And better aligned with the needs of our target users (pregnant women in underserved areas).
+
+### Conclusion: The Role of Wireframing
+
+This experience highlighted how **wireframing is crucial in identifying usability flaws early** in the design process. By allowing us to **visually test and refine** our ideas, wireframes ensured that we built a product that was not only functional but also easy to use—ultimately improving the user experience and increasing the app’s potential impact.
