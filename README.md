@@ -64,3 +64,19 @@ These are detailed and polished wireframes that look closer to the final product
 The wireframe presented is a **High-Fidelity Wireframe**.
 
 It includes detailed design elements such as layout structure, accurate spacing, actual text, and visual styles (like colors, fonts, and buttons). This level of detail indicates that the design is close to what the final product will look like and is likely intended for review by developers or stakeholders before moving to full implementation.
+
+## Popular wireframing tools.
+
+## Recommended Tool: Figma
+
+**Figma** is a popular cloud-based design tool widely used for creating wireframes, prototypes, and UI designs. It's especially powerful for collaboration and real-time feedback, making it ideal for both individual designers and teams.
+
+### Key Features:
+- **Real-time collaboration** – Multiple users can design and comment at the same time.
+- **Drag-and-drop interface** – Easy to create layouts without needing advanced design skills.
+- **Component system** – Reuse design elements for consistency across screens.
+- **Cloud-based** – Accessible from any device with a browser.
+- **Prototyping** – Link wireframes and designs for interactive flow demos.
+
+**Why it’s great for wireframing:**  
+Figma allows you to quickly sketch out low-fidelity wireframes and later refine them into high-fidelity mockups—all in one platform. Its intuitive interface and collaborative features make it a top choice for UX/UI design work.
