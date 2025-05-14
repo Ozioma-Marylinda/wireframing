@@ -43,19 +43,19 @@ By stripping away visual design elements, wireframes allow designers to concentr
 
 Understanding the difference between low-fidelity and high-fidelity wireframes is crucial in the design process. Each plays a unique role in turning ideas into user-friendly interfaces.
 
-* Low-Fidelity Wireframes
+### Low-Fidelity Wireframes
 These are basic sketches or digital layouts that focus on the overall structure and user flow. They don’t include design details—just rough blocks to show where things go. Used early in the design process to quickly explore ideas and get feedback.
 
-**Example tools:** Pen & paper, Balsamiq
+* Example tools: Pen & paper, Balsamiq
 
-**When to use:** During brainstorming and early planning.
+* When to use: During brainstorming and early planning.
 
-* High-Fidelity Wireframes
+### High-Fidelity Wireframes
 These are detailed and polished wireframes that look closer to the final product. They include real text, colors, fonts, and UI components. Used later in the process for testing and sharing with stakeholders or developers.
 
-**Example tools:** Figma, Sketch, Adobe XD
+* Example tools: Figma, Sketch, Adobe XD
 
-**When to use:** After structure is finalized, before or during development.
+* When to use: After structure is finalized, before or during development.
 
 * Low-fidelity is for quick, early ideas. High-fidelity is for refining and finalizing designs. Use each at the right stage to save time and build better user experiences.
 
