@@ -37,3 +37,30 @@ By stripping away visual design elements, wireframes allow designers to concentr
 
 *  Functionality: Outlines key functionalities and interactions.
 
+## Types of Wireframes.
+
+### Low-Fidelity vs High-Fidelity Wireframes
+
+Understanding the difference between low-fidelity and high-fidelity wireframes is crucial in the design process. Each plays a unique role in turning ideas into user-friendly interfaces.
+
+### Low-Fidelity Wireframes
+These are basic sketches or digital layouts that focus on the overall structure and user flow. They don’t include design details—just rough blocks to show where things go. Used early in the design process to quickly explore ideas and get feedback.
+
+**Example tools:** Pen & paper, Balsamiq
+
+**When to use:** During brainstorming and early planning.
+
+### High-Fidelity Wireframes
+These are detailed and polished wireframes that look closer to the final product. They include real text, colors, fonts, and UI components. Used later in the process for testing and sharing with stakeholders or developers.
+
+**Example tools:** Figma, Sketch, Adobe XD
+
+**When to use:** After structure is finalized, before or during development.
+
+* Low-fidelity is for quick, early ideas. High-fidelity is for refining and finalizing designs. Use each at the right stage to save time and build better user experiences.
+
+## What Type of Wireframe is This?
+
+The wireframe presented is a **High-Fidelity Wireframe**.
+
+It includes detailed design elements such as layout structure, accurate spacing, actual text, and visual styles (like colors, fonts, and buttons). This level of detail indicates that the design is close to what the final product will look like and is likely intended for review by developers or stakeholders before moving to full implementation.
