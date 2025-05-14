@@ -29,11 +29,11 @@ By stripping away visual design elements, wireframes allow designers to concentr
 
 ## Key Elements in a Wireframe
 
-** Layout Structure: Defines the arrangement of elements on the page.
+* ** Layout Structure: Defines the arrangement of elements on the page.
 
-** Navigation: Shows how users will move through the site or application.
+* ** Navigation: Shows how users will move through the site or application.
 
-** Content Placement: Indicates where text, images, and other content will be positioned.
+* ** Content Placement: Indicates where text, images, and other content will be positioned.
 
-** Functionality: Outlines key functionalities and interactions.
+* ** Functionality: Outlines key functionalities and interactions.
 
